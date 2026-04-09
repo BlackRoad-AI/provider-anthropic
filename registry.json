@@ -1,0 +1,18 @@
+{
+  "provider_id": "anthropic",
+  "name": "Anthropic Claude",
+  "primary_model": "claude-sonnet",
+  "models": [
+    "claude-opus-4",
+    "claude-sonnet-4",
+    "claude-haiku-3"
+  ],
+  "active": true,
+  "in_use_by": [],
+  "usage_stats": {
+    "requests": 0,
+    "tokens": 0,
+    "errors": 0
+  },
+  "created_at": "2026-04-09T04:34:03.612608Z"
+}
