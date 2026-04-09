@@ -1,0 +1,21 @@
+{
+  "provider": "anthropic",
+  "models": {
+    "claude-opus-4": {
+      "latency_ms": null,
+      "tokens_per_sec": null,
+      "cost_per_1k": null
+    },
+    "claude-sonnet-4": {
+      "latency_ms": null,
+      "tokens_per_sec": null,
+      "cost_per_1k": null
+    },
+    "claude-haiku-3": {
+      "latency_ms": null,
+      "tokens_per_sec": null,
+      "cost_per_1k": null
+    }
+  },
+  "last_benchmarked": null
+}
